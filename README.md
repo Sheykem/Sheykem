@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sheykem
-- 👀 I’m interested in ...програмирование  я только начал изучать, хочу научиться  что новое и иметь допольнительный доход)
-- 🌱 I’m currently learning ...программу Visual Studio Code, хочу получить навок и выучить Html,SCC
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...програмирование
+- 🌱 I’m currently learning ... Html/Css/Scss/Css Modules/React/Redux/Ts/Figma...
+- 💞️ I’m looking to collaborate on ... company
 - 📫 How to reach me ...Telegram/Viber +38(050)279-31-68
 
 <!---
